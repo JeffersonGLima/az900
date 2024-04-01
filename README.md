@@ -1,2 +1,3 @@
 # az900
 Criado o repositório conforme orientado.
+https://www.booking.com/hotel/br/casinha-da-curva.pt-br.html?aid=360920&label=New_Portuguese_PT_ROW_6409090206-_9oPl604g33uUPimd0_L7QSM217921514283%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg&sid=52b18efb2b85ee7ff8eb71af07a326d6&age=3&all_sr_blocks=790191901_355967719_5_0_0&checkin=2024-06-01&checkout=2024-06-04&dest_id=-646402&dest_type=city&dist=0&group_adults=4&group_children=1&hapos=7&highlighted_blocks=790191901_355967719_5_0_0&hpos=7&matching_block_id=790191901_355967719_5_0_0&no_rooms=1&req_adults=4&req_age=3&req_children=1&room1=A%2CA%2CA%2CA%2C3&sb_price_type=total&sr_order=popularity&sr_pri_blocks=790191901_355967719_5_0_0__148500&srepoch=1711934778&srpvid=69b2090a79b80055&type=total&ucfs=1&activeTab=main#map_closed
